@@ -1,4 +1,5 @@
-# Nombre del proyecto
+# Pagina Hola Mundo más Imagen de IA
+  
 ## Descripción 
 ## Prerrequisitos (tecnologías a instalar)
 ## Pasos para su ejecución
